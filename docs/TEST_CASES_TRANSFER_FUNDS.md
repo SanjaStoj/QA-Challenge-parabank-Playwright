@@ -333,5 +333,3 @@ These apply to every test case below and are not repeated in each step.
 
 - **Pass (7):** TC-TF-01, 02, 03, 04, 05, 06, 14
 - **Fail (8):** TC-TF-07, 08, 09, 10, 11, 12, 13, 15
-
-The test cases cover valid transfers, balance updates, transaction history, boundary values, invalid inputs and access without authentication.
